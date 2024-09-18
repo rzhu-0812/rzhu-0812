@@ -2,8 +2,10 @@ Hi 👋 My name is Ryan Zhu
 =========================
 
 * 🌍  I'm based in Brooklyn, New York
-* ✉️  You can contact me at [rzhu0812@gmail.com](mailto:rzhu0812@gmail.com)
 * 🧠  I'm currently learning JavaScript & TensorFlow
+* 🧑🏻‍💻  I'm interning remotely with PSU
+* ✉️  You can contact me at [rzhu0812@gmail.com](mailto:rzhu0812@gmail.com)
+
 
 ### Skills
 
