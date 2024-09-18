@@ -1,5 +1,6 @@
-Hi 👋 My name is Ryan Zhu
-=========================
+# Hi 👋 My name is Ryan Zhu
+##### Python / Java Enthusiast
+----------------------
 
 * 🌍  I'm based in Brooklyn, New York
 * 🧠  I'm currently learning JavaScript & TensorFlow
