@@ -3,6 +3,7 @@
 ----------------------
 
 * 🌍  I'm based in Brooklyn, New York
+* 🏫  I'm a junior at Brooklyn Tech
 * 🧠  I'm currently learning JavaScript & TensorFlow
 * 🧑🏻‍💻  I'm interning remotely with PSU
 * 🚀  I'm working on [Custom Weather App](http://github.com/rzhu-0812/Weather-App)
