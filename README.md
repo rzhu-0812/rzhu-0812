@@ -5,7 +5,7 @@
 * 🌍  I'm based in Brooklyn, New York
 * 🧠  I'm currently learning JavaScript & TensorFlow
 * 🧑🏻‍💻  I'm interning remotely with PSU
-* 🚀  I'm currently working on [Custom Weather App](http://github.com/rzhu-0812/Weather-App)
+* 🚀  I'm working on [Custom Weather App](http://github.com/rzhu-0812/Weather-App)
 * ✉️  You can contact me at [rzhu0812@gmail.com](mailto:rzhu0812@gmail.com)
 
 
