@@ -1,6 +1,6 @@
 # Hi 👋 My name is Ryan Zhu
-##### Python / Java Enthusiast
-----------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=true&width=300&height=20&lines=3+Years+Coding+Experience;Python+%2F+Java+Enthusiast;Student+Developer;Learning+and+growing+%F0%9F%92%AA%F0%9F%8F%BB)](https://git.io/typing-svg)
+
 
 * 🌍  I'm based in Brooklyn, New York
 * 🏫  I'm a junior at Brooklyn Tech
