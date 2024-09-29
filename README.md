@@ -1,5 +1,13 @@
 # Hi 👋 I'm Ryan
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=true&width=300&height=25&lines=3+Years+Coding+Experience;Python+%2F+Java+Enthusiast;Student+Developer;Learning+and+growing+%F0%9F%92%AA%F0%9F%8F%BB)](https://git.io/typing-svg)
+<a href="https://www.github.com/rzhu-0812" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=true&width=435&height=50&lines=3+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB;Python+%2F+Java+Enthusiast+%F0%9F%90%8D%E2%98%95" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3274FF&random=true&width=435&height=50&lines=3+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB;Python+%2F+Java+Enthusiast+%F0%9F%90%8D%E2%98%95" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3274FF&random=true&width=435&height=25&lines=3+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB;Python+%2F+Java+Enthusiast+%F0%9F%90%8D%E2%98%95" alt="Typing SVG" />
+  </picture>
+</a>
 
 * 🌍  I'm based in Brooklyn, New York
 * 🏫  I'm a junior at Brooklyn Tech
@@ -75,5 +83,5 @@
               srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=1c1917&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </picture>
-</a>
+  </a>
 </p>
