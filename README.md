@@ -18,9 +18,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/html5.png" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/css3.png" width="40" height="40" alt="CSS3" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/tailwind.png" width="40" height="40" alt="TailwindCSS" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" /></a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/plotly.png" width="40" height="40" alt="Plotly" /></a>
 </p>
+
+
+### Libraries (Python Exclusive)
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" /></a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/plotly.png" width="40" height="40" alt="Plotly" /></a>
+<a href="https://www.pygame.org/news" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/pygame.png" wodth="40" height="40" alt="MatPlotLib" /></a>
+<a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/customtkinter.png" width="40" height="40" alt="Plotly" /></a>
 
 
 ### IDEs I Use
