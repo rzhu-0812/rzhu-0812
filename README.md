@@ -23,7 +23,7 @@
 </p>
 
 
-### IDEs
+### IDEs I Use
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/vscode.png" width="40" height="40" alt="VS Code" /></a>
