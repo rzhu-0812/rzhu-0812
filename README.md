@@ -12,39 +12,86 @@
 ### Languages and Frameworks
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/python.png" width="40" height="40" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/java.png" width="40" height="40" alt="Java" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/cpp.png" width="40" height="40" alt="C++" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/html5.png" width="40" height="40" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/css3.png" width="40" height="40" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/tailwind.png" width="40" height="40" alt="TailwindCSS" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" /></a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/plotly.png" width="40" height="40" alt="Plotly" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/python.png" width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/java.png" width="40" height="40" alt="Java" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/cpp.png" width="40" height="40" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/html5.png" width="40" height="40" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/css3.png" width="40" height="40" alt="CSS3" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/tailwind.png" width="40" height="40" alt="TailwindCSS" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" />
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/plotly.png" width="40" height="40" alt="Plotly" />
+  </a>
 </p>
 
 
 ### IDEs I Use
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/vscode.png" width="40" height="40" alt="VS Code" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/sublime.png" width="40" height="40" alt="VS Code" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/pycharm.png" width="40" height="40" alt="Sublime Text" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/intellij.png" width="40" height="40" alt="Sublime Text" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/vscode.png" width="40" height="40" alt="VS Code" />
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/sublime.png" width="40" height="40" alt="VS Code" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/pycharm.png" width="40" height="40" alt="Sublime Text" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/intellij.png" width="40" height="40" alt="Sublime Text" />
+  </a>
 </p>
 
 
 ### Socials
 
 <p align="left">   
-  <a href="https://www.github.com/rzhu-0812" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github-dark.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" /> <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" width="40" height="40" /> </picture> </a>
-  <a href="https://www.linkedin.com/in/ryan-zhu-b1310532a" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/linkedin.png" width="40" height="40" /></a>
+  <a href="https://www.github.com/rzhu-0812" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" /> <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" width="40" height="40" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-zhu-b1310532a" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/linkedin.png" width="40" height="40" />
+  </a>
 </p>
 
 
 ### Stats
 
 <p>
-  <a href="http://www.github.com/rzhu-0812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rzhu-0812&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://www.github.com/rzhu-0812" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&theme=dark&background=0d1217&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&hide_border=true" />
+    </picture> 
+  </a>
+  
   <br />
-  <a href="https://github.com/rzhu-0812"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
+  <a href="https://www.github.com/rzhu-0812" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0d1217&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=1c1917&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </picture>
+</a>
 </p>
