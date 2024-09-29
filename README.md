@@ -1,6 +1,5 @@
 # Hi 👋 I'm Ryan
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=true&width=300&height=20&lines=3+Years+Coding+Experience;Python+%2F+Java+Enthusiast;Student+Developer;Learning+and+growing+%F0%9F%92%AA%F0%9F%8F%BB)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=true&width=300&height=25&lines=3+Years+Coding+Experience;Python+%2F+Java+Enthusiast;Student+Developer;Learning+and+growing+%F0%9F%92%AA%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Brooklyn, New York
 * 🏫  I'm a junior at Brooklyn Tech
@@ -40,6 +39,7 @@
   <a href="https://www.github.com/rzhu-0812" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.linkedin.com/in/ryan-zhu-b1310532a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
+
 
 ### Stats
 
