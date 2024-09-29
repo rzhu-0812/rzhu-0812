@@ -36,15 +36,38 @@
 ### Socials
 
 <p align="left">   
-  <a href="https://www.github.com/rzhu-0812" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.linkedin.com/in/ryan-zhu-b1310532a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.github.com/rzhu-0812" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" /> <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/github.png" width="40" height="40" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-zhu-b1310532a" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Social/linkedin.png" width="40" height="40" />
+  </a>
 </p>
 
 
 ### Stats
 
 <p>
-  <a href="http://www.github.com/rzhu-0812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rzhu-0812&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://www.github.com/rzhu-0812" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&theme=dark&background=0d1217&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rzhu-0812&hide_border=true" />
+    </picture> 
+  </a>
+  
   <br />
-  <a href="https://github.com/rzhu-0812"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
+  <a href="https://www.github.com/rzhu-0812" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0d1217&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=1c1917&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhu-0812&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </picture>
+</a>
 </p>
