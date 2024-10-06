@@ -21,12 +21,12 @@
 ### ⚙️ Languages and Frameworks
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/python.png" width="40" height="40" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/html5.png" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/java.png" width="40" height="40" alt="Java" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/cpp.png" width="40" height="40" alt="C++" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/html5.png" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/css3.png" width="40" height="40" alt="CSS3" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Frameworks/tailwind.png" width="40" height="40" alt="TailwindCSS" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Languages/python.png" width="40" height="40" alt="Python" /></a>
 </p>
 
 <br />
@@ -34,8 +34,8 @@
 ### 📕 Libraries (Python Exclusive)
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/plotly.png" width="40" height="40" alt="Plotly" /></a>
 <a href="https://www.pygame.org/news" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/pygame.png" wodth="40" height="40" alt="MatPlotLib" /></a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/plotly.png" width="40" height="40" alt="Plotly" /></a>
 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/customtkinter.png" width="40" height="40" alt="Plotly" /></a>
 
 <br />
@@ -43,10 +43,10 @@
 ### 🛠️ IDEs I Use
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/vscode.png" width="40" height="40" alt="VS Code" /></a>
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/sublime.png" width="40" height="40" alt="VS Code" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/pycharm.png" width="40" height="40" alt="Sublime Text" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/intellij.png" width="40" height="40" alt="Sublime Text" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/vscode.png" width="40" height="40" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/IDEs/pycharm.png" width="40" height="40" alt="Sublime Text" /></a>
 </p>
 
 <br />
