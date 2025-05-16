@@ -12,7 +12,7 @@
 * 🌍  I'm based in Brooklyn, New York
 * 🏫  I'm a junior at Brooklyn Tech
 * 🧠  I'm currently learning JavaScript & TensorFlow (kinda)
-* 🚀  I'm working on [Custom Weather App](http://github.com/rzhu-0812/Weather-App) and [Note Taking App](https://github.com/rzhu-0812/Note-Taking-App)
+* 🚀  I'm working on [Note Taking App](https://github.com/rzhu-0812/Note-Taking-App)
 * ✉️  You can contact me at [rzhu0812@gmail.com](mailto:rzhu0812@gmail.com)
 
 <br />
