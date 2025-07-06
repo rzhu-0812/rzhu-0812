@@ -32,8 +32,8 @@
 
 ### 📕 Libraries (Python Exclusive)
 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/matplotlib.png" wodth="40" height="40" alt="MatPlotLib" /></a>
-<a href="https://www.pygame.org/news" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/pygame.png" wodth="40" height="40" alt="MatPlotLib" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/matplotlib.png" width="40" height="40" alt="MatPlotLib" /></a>
+<a href="https://www.pygame.org/news" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/pygame.png" width="40" height="40" alt="MatPlotLib" /></a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/plotly.png" width="40" height="40" alt="Plotly" /></a>
 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rzhu-0812/rzhu-0812/blob/main/Logos/Libraries/customtkinter.png" width="40" height="40" alt="Plotly" /></a>
 
