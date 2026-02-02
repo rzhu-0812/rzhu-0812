@@ -11,7 +11,7 @@
 </a>
 
 - 🌍  I'm based in Brooklyn, New York
-- 🏫  I'm a junior at Brooklyn Tech
+- 🏫  I'm a senior at Brooklyn Tech
 - 🧠  I'm currently learning **Next.JS**
 - 🚀  I'm working on [Note Taking App](https://github.com/rzhu-0812/Note-Taking-App) and [Plainly](https://github.com/rzhu-0812/Plainly)
 - ✉️  You can contact me through: 
