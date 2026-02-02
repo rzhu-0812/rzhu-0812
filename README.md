@@ -3,10 +3,10 @@
 <a href="https://www.github.com/rzhu-0812" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=ff6922&random=true&width=435&height=50&lines=4+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" />
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=ff6922&random=true&width=435&height=50&lines=5+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2095ea&random=true&width=435&height=50&lines=4+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2095ea&random=true&width=435&height=25&lines=4+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG" />
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2095ea&random=true&width=435&height=50&lines=5+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2095ea&random=true&width=435&height=25&lines=5+Years+Coding+Experience+%F0%9F%92%BC;Student+Dev+%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -31,6 +31,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
