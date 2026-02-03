@@ -25,16 +25,19 @@
 <p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
 </p>
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
