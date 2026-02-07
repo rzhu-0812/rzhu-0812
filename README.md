@@ -35,6 +35,7 @@
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
 </p>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
