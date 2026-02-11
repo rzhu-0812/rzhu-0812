@@ -12,8 +12,8 @@
 
 - 🌍  I'm based in Brooklyn, New York
 - 🏫  I'm a senior at Brooklyn Tech
-- 🧠  I'm currently learning **Next.js**
-- 🚀  I'm working on [Note Taking App](https://github.com/rzhu-0812/Note-Taking-App)
+- 🧠  I'm currently learning **Next.js** and **TensorFlow**
+- 🚀  I'm working on [Note Taking App](https://github.com/rzhu-0812/Note-Taking-App) 
 - ✉️  You can contact me through: 
   <a href="mailto:rzhu0812@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" align="center"/></a>
   <a href="https://www.github.com/rzhu-0812" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" align="center"/></a>
